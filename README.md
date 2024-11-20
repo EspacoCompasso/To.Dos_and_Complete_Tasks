@@ -11,9 +11,3 @@
 | 1 | Tratar da Electricidade | O mais depressa possível | Filipe | Por tratar | 
 | 2 | Levar Andaimes | O mais depressa possível | Tito | Tratado | 
 | 3 | Levar traves dos Andaimes | Quanto o Tito puder | Tito | Por tratar | 
-
-#### Lista de Objectivos 
-
-[ ] - 1
-[x] - 2 
-[ ] - 3 
